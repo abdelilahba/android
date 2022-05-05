@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="BasestyleTextView" parent="android:Widget.TextView">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_margin">@dimen/margin_titre</item>
+        <item name="android:padding">@dimen/padding_titre</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textSize">@dimen/text_res</item>
+        <item name="android:color">@color/texte_color</item>
+        <item name="android:textStyle">bold</item>
+        
+    </style>
+    <style name="titreStyle" parent="@style/BasestyleTextView">
+
+    </style>
+</resources>

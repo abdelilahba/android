@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">My Application</string>
+   <string name="titre_app">Calcul prix achat</string>
+    <string name="label1">Moantant en DH /</string>
+    <string name="label2">Devise2</string>
+    <string name="devise1">Dollar </string>
+    <string name="devise2">Euro </string>
+    <string name="bouton1">convertir </string>
+    <string name="bbouton">initialiser</string>
+    <string name="defualt_res">Montant en Euro:0:00</string>
 </resources>
